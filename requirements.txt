@@ -1,0 +1,11 @@
+einops
+ml_collections
+numpy
+opencv_python
+pandas
+Pillow
+pytest
+scipy
+setuptools
+skimage
+timm
